@@ -22,14 +22,14 @@
 <h2>Server side :</h2>
     In .env file add you tmdb api key and connect with your mongoDB.<br>
     Install the dependencies using the command:</br>
-        &emsp npm i</br>
+        npm i</br>
     Now for running the server side :<br>
-        &emsp node index.js</br>
+        node index.js</br>
 
 <h2>Client side:</h2>
     Install the dependencies using the command:</br>
-        &emsp npm i</br>
+ npm i</br>
     Now for running the client side :</br>
-        &emsp npm start</br>
+     npm start</br>
     
     
