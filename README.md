@@ -19,17 +19,17 @@
 
 # Running the project
 
-Server side :
-    In .env file add you tmdb api key and connect with your mongoDB.
-    Install the dependencies using the command:
-        npm i
-    Now for running the server side :
-        node index.js
+<h2>Server side :</h2>
+    <h3>In .env file add you tmdb api key and connect with your mongoDB.</h3>
+    <h3>Install the dependencies using the command:</h3>
+        <h3>npm i</h3>
+    <h3>Now for running the server side :</h3>
+        <h3>node index.js</h3>
 
-Client side:
-    Install the dependencies using the command:
-        npm i
-    Now for running the client side :
-        npm start
+<h2>Client side:</h2>
+    <h3>Install the dependencies using the command:</h3>
+        <h3>npm i</h3>
+    <h3>Now for running the client side :</h3>
+        <h3>npm start</h3>
     
     
