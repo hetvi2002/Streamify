@@ -20,16 +20,16 @@
 # Running the project
 
 <h2>Server side :</h2>
-    <h3>In .env file add you tmdb api key and connect with your mongoDB.</h3>
-    <h3>Install the dependencies using the command:</h3>
-        <h3>npm i</h3>
-    <h3>Now for running the server side :</h3>
-        <h3>node index.js</h3>
+    In .env file add you tmdb api key and connect with your mongoDB.<br>
+    Install the dependencies using the command:</br>
+        &emsp npm i</br>
+    Now for running the server side :<br>
+        &emsp node index.js</br>
 
 <h2>Client side:</h2>
-    <h3>Install the dependencies using the command:</h3>
-        <h3>npm i</h3>
-    <h3>Now for running the client side :</h3>
-        <h3>npm start</h3>
+    Install the dependencies using the command:</br>
+        &emsp npm i</br>
+    Now for running the client side :</br>
+        &emsp npm start</br>
     
     
