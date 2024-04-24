@@ -1,12 +1,6 @@
-# MoonFlix
+# Streamify
 
-    Fullstack Responsive Movie Website 2022
-
-# Video tutorial
-
-[Part 1](https://youtu.be/j-Sn1b4OlLA)<br>
-
-[Part 2](https://youtu.be/Q_uLi4f27Lc)<br>
+    A streaming website that provides the users facility of streaming the movies and series and to provied the recommendations based on the users prefrence.It is a project developed using MERN stack.
 
 # Resource
 
@@ -23,16 +17,19 @@
 [Swiper](https://swiperjs.com/)<br>
 [JWT](https://github.com/auth0/node-jsonwebtoken)<br>
 
-# Preview
+# Running the project
 
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322539-8fcd83e1-8424-4922-980c-91d20cdf761c.png "Fullstack Responsive Movie Website 2022")
+Server side :
+    In .env file add you tmdb api key and connect with your mongoDB.
+    Install the dependencies using the command:
+        npm i
+    Now for running the server side :
+        node index.js
 
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322676-cbf56b14-8e23-4622-bbd9-76e6cbe619a8.png "Fullstack Responsive Movie Website 2022")
-
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322838-09e075c4-7f47-4252-83e8-afdd633e1968.png "Fullstack Responsive Movie Website 2022")
-
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322933-1b5cf238-0ec7-4adf-89eb-6b4fb3dcb996.png "Fullstack Responsive Movie Website 2022")
-
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207323098-dfa74553-78a8-4809-a7a7-cd569c3b3f6c.png "Fullstack Responsive Movie Website 2022")
-
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207323021-0b5657d2-8913-4b81-8c1b-d4ceef065ee6.png "Fullstack Responsive Movie Website 2022")
+Client side:
+    Install the dependencies using the command:
+        npm i
+    Now for running the client side :
+        npm start
+    
+    
